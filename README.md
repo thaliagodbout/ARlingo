@@ -1,5 +1,5 @@
 # ARlingo
-### DeltaHacks 2020 project by: Thalia, Maria, Erin
+DeltaHacks 2020 project by: Thalia, Maria, and Erin
 
 ### Inspiration
 Many young kids, especially children with learning disabilities, have difficulties staying focused and engaged with learning. In order to solve this problem, we decided to create a learning tool for children, designed to gamify the process of learning vocabulary for new languages in a visual, interactive way.
