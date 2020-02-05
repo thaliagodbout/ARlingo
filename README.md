@@ -3,7 +3,8 @@ DeltaHacks 2020 project by: Thalia, Maria, and Erin
 
 ### Inspiration
 Many young kids, especially children with learning disabilities, have difficulties staying focused and engaged with learning. In order to solve this problem, we decided to create a learning tool for children, designed to gamify the process of learning vocabulary for new languages in a visual, interactive way.
-What it does
+
+### What it does
 ARlingo is a mobile application that encourages children to participate in active learning, enhancing their language learning by allowing them to visualize the words they are learning (such as animals in French or playground objects in Spanish), while also providing an interactive interface. After generating 3D models of objects in the user's environment, the user is prompted to select what the object's name is in their language of choice. Rather than learning new vocabulary through a piece of paper, kids can now interact with virtual models and stay engaged throughout their learning process.
 
 ### How we built it
